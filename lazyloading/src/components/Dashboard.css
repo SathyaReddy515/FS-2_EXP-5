@@ -1,0 +1,21 @@
+.dashboard {
+  padding: 20px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.skills span {
+  background-color: #61dafb;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
+}
