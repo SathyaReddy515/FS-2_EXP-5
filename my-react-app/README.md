@@ -12,16 +12,16 @@ To optimize frontend performance by implementing lazy loading of components in a
 ## Screenshots
 
 ### Home Page
-![Home Page](/FS2-EXP-4/Images/Experiment%205.2.1.png)
+![Home Page](../Images/Experiment%205.2.1.png)
 
 ### Loading State
-![Loading State](/FS2-EXP-4/Images/Experiment%205.2.png)
+![Loading State](../Images/Experiment%205.2.png)
 
 ### About Page
-![About Page](/FS2-EXP-4/Images/Experiemnt%205.2.3.png)
+![About Page](../Images/Experiemnt%205.2.3.png)
 
 ### Contact Page
-![Contact Page](/FS2-EXP-4/Images/Experiment%205.2.2.png)
+![Contact Page](../Images/Experiment%205.2.2.png)
 ## Introduction
 Lazy loading is an optimization technique that improves application performance by loading components only when they are required. This experiment demonstrates how React.lazy and Suspense can be used to dynamically load components in a React application, thereby reducing the initial bundle size and improving page load time.
 

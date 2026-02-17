@@ -32,8 +32,9 @@ src/
 
 Dashboard Component Display
 ## 🖼 Screenshot
+![Dashboard Screenshot](../Images/Experiment5.1.1.png)
 
-![Dashboard Screenshot](/FS2-EXP-4/Images/Experiment%205.1.png)
+![Dashboard Screenshot](../Images/Experiment%205.1.png)
 
 
 ⚙ Installation
