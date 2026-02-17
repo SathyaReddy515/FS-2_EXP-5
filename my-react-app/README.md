@@ -11,11 +11,11 @@ To optimize frontend performance by implementing lazy loading of components in a
 ---
 ## Screenshots
 
-### Home Page
-![Home Page](../Images/Experiment%205.2.1.png)
-
 ### Loading State
 ![Loading State](../Images/Experiment%205.2.png)
+
+### Home Page
+![Home Page](../Images/Experiment%205.2.1.png)
 
 ### About Page
 ![About Page](../Images/Experiemnt%205.2.3.png)

@@ -32,9 +32,9 @@ src/
 
 Dashboard Component Display
 ## 🖼 Screenshot
-![Dashboard Screenshot](../Images/Experiment5.1.1.png)
+![Loading](../Images/Experiment5.1.1.png)
 
-![Dashboard Screenshot](../Images/Experiment%205.1.png)
+![Dashboard](../Images/Experiment%205.1.png)
 
 
 ⚙ Installation

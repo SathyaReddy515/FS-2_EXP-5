@@ -1,16 +1,14 @@
 import { lazy, Suspense } from 'react'
 import './App.css'
+import Loader from './components/Loader.jsx'
 
-// Lazy load Dashboard component
-const LazyDashboard = lazy(() => import('./components/Dashboard.jsx'))
+const LazyDashboard = lazy(() => import('./components/Dashboard'))
 
 function App() {
   return (
-    <div className="App">
-      <Suspense fallback={<h1>Loading...</h1>}>
-        <LazyDashboard />
-      </Suspense>
-    </div>
+    <Suspense fallback={<Loader />}>
+      <LazyDashboard />
+    </Suspense>
   )
 }
 

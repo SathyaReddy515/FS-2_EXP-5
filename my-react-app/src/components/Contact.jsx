@@ -1,4 +1,9 @@
 function Contact() {
-  return <h2>Contact Component Loaded</h2>;
+  return (
+    <div className="page">
+      <h1>Contact</h1>
+      <p>Email: example@email.com</p>
+    </div>
+  );
 }
 export default Contact;

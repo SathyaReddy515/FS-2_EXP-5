@@ -1,4 +1,9 @@
 function About() {
-  return <h2>About Component Loaded</h2>;
+  return (
+    <div className="page">
+      <h1>About Us</h1>
+      <p>This page demonstrates React lazy loading.</p>
+    </div>
+  );
 }
 export default About;
